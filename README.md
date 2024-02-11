@@ -3,7 +3,7 @@
 - Im currently studying for an Open University IT Degree.
 - 
 - **Ive completed 3 out of 4 of the 1st year university modules : TM111: Distinction, TM112: Distinction, MT124(Maths): Grade 3
--        I am currently studying 1 x 2nd year module TT284 (Web Technologies) and will start the last 1st year module TM129 on 1st Feb 2024**
+-        I am currently studying 1 x 2nd year module TT284 (Web Technologies) and will start the last 1st year module TM129 on 1st Feb 2024
 - 
 - 👀 I’m interested in ... getting a job !.
 -        I used to freelance code in Cobol for a number of Household name companies around the UK.
